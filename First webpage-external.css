@@ -1,0 +1,19 @@
+footer{
+background-color: azure;
+color: black;
+position: fixed;
+bottom: 0;
+margin: auto;
+width: 97%;
+text-align: center;
+
+}
+.c1 {
+    text-align:left;
+
+}
+.c2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
